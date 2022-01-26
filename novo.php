@@ -2,10 +2,10 @@
 // funcoes aqui
 
 
-function funcao1() {
+function branch_funcao1() {
   return FALSE;
 }
 
-function funcao2() {
+function branch_funcao2() {
   return TRUE;
 }
