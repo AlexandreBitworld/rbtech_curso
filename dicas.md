@@ -18,3 +18,6 @@ git log
 git log -p
 git log -p -1
 gitk
+git log --pretty=oneline
+git commit --amend -m "commit 04"
+git reset HEAD novo.php
