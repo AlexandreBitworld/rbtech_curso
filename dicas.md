@@ -33,7 +33,7 @@ git log --graph
 gitk
 git show f5b1626ecac31b17eb8855f14bb1f3fd9087f20a
 git commit --amend -m "commit 04"
-git reset HEAD novo.php
+git reset HEAD novo.php (retira do stage)
 git checkout -- novo.php (desfaz mudanças)
 git rm nomearquivo (remover arquivo)
 
