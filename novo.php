@@ -9,3 +9,12 @@ function funcao1() {
 function funcao2() {
   return TRUE;
 }
+
+
+function funcao3() {
+  return FALSE;
+}
+
+function funcao4() {
+  return TRUE;
+}
