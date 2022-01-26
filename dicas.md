@@ -60,3 +60,23 @@ ele cria na sua maquina
 git clone file:////athena/g/git_projetos/rbtech_projeto/cliente1 jupiter
 
 git push origin master
+
+git remote
+git remote -v
+git branch -M main
+git branch master
+git remote add origin git@github.com:AlexandreBitworld/rbtech_curso.git
+git push -u origin main
+
+…or create a new repository on the command line
+echo "# rbtech_curso" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/AlexandreBitworld/rbtech_curso.git
+git push -u origin main
+…or push an existing repository from the command line
+git remote add origin https://github.com/AlexandreBitworld/rbtech_curso.git
+git branch -M main
+git push -u origin main
