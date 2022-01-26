@@ -55,6 +55,8 @@ https://www.treinaweb.com.br/blog/comandos-do-git-que-voce-precisa-conhecer-part
 
 rede local
 git init --bare
-git clone file:////athena/G/git_projetos/rbtech_projeto/cliente1
+
+ele cria na sua maquina
+git clone file:////athena/g/git_projetos/rbtech_projeto/cliente1 jupiter
 
 aula05
