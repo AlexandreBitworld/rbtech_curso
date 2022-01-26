@@ -47,5 +47,14 @@ git checkout v2.0
 git checkout master
 git branch teste
 git checkout teste
+git checkout master
+git merge teste
+git branch -d teste
+git branch -D teste
+https://www.treinaweb.com.br/blog/comandos-do-git-que-voce-precisa-conhecer-parte-1
+
+rede local
+git init --bare
+git clone file:////athena/G/git_projetos/rbtech_projeto/cliente1
 
 aula05
