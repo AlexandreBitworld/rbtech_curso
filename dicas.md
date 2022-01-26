@@ -45,5 +45,7 @@ git checkout v0.0
 git checkout v1.0
 git checkout v2.0
 git checkout master
+git branch teste
+git checkout teste
 
 aula05
