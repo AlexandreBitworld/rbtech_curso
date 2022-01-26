@@ -39,6 +39,11 @@ git rm nomearquivo (remover arquivo)
 git tag
 git tag -a v1.0 -m "versão 1.0"
 git tag -a v0.0 1d20229444319e51266ee2054558579fd4d56b5e -m "versão 0.0"
+git tag -d v0.0 (excluir a tag)
 git show v1.0
+git checkout v0.0
+git checkout v1.0
+git checkout v2.0
+git checkout master
 
 aula05
