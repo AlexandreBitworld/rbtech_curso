@@ -24,8 +24,8 @@ git diff --name-only
 git log
 git log -p
 git log -p -1
-git log --pretty=oneline
 git log --author="AlexandreBitworld"
+git log --pretty=oneline
 git shortlog
 git log --decorate
 git shortlog -sn
@@ -33,8 +33,12 @@ git log --graph
 gitk
 git show f5b1626ecac31b17eb8855f14bb1f3fd9087f20a
 git commit --amend -m "commit 04"
-git reset HEAD novo.php (retira do stage)
+git reset HEAD novo.php
 git checkout -- novo.php (desfaz mudanças)
 git rm nomearquivo (remover arquivo)
+git tag
+git tag -a v1.0 -m "versão 1.0"
+git tag -a v0.0 1d20229444319e51266ee2054558579fd4d56b5e -m "versão 0.0"
+git show v1.0
 
 aula05
