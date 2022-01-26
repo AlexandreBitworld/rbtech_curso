@@ -59,4 +59,4 @@ git init --bare
 ele cria na sua maquina
 git clone file:////athena/g/git_projetos/rbtech_projeto/cliente1 jupiter
 
-aula05
+git push origin master
