@@ -11,3 +11,10 @@ git init
 git add .
 git commit -m "mensagem"
 git commit -a -m "mensagem" ---> commita sem precisar dar o add
+git status
+git diff
+git diff --staged
+git log
+git log -p
+git log -p -1
+gitk
